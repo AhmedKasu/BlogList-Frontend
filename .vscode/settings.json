@@ -1,0 +1,7 @@
+{
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
